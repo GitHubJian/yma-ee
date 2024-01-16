@@ -1,0 +1,18 @@
+{
+    "name": "yma-ee",
+    "version": "1.0.0",
+    "description": "事件触发与事件监听器",
+    "main": "./src/index.js",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/GitHubJian/yma-ee.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/GitHubJian/yma-ee/issues"
+    },
+    "homepage": "https://github.com/GitHubJian/yma-ee#readme"
+}
